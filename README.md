@@ -30,3 +30,7 @@
 3. 国家地理Africa  Destination World
 4. 小鼠波波E001
 5. zippy and me 01 20分钟
+### 20191202  :white_check_mark:
+1. zippy and me 01 5分钟
+2. peppa 0106-0107
+3. sss 0205-0206
