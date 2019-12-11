@@ -10,7 +10,7 @@
 
 [2019英语阅读书籍](book/2019/english/list.md)   
 
-[201911记录](book/2019/201911/record.md)  201911：5:white_check_mark: 0:white_large_square:  
+[201911](book/2019/201911/record.md)  5:white_check_mark: 0:white_large_square:  
 ### 20191201  :white_check_mark:
 1. super simple song 0202-0204
 2. peppa 0102-0105
