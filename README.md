@@ -12,8 +12,8 @@
 
 [2019英语阅读书籍](book/2019/english/list.md)   
 
-[201911](book/2019/201911/record.md)  5:white_check_mark: 0:white_large_square:  
-[201912](book/2019/201912/record.md)  31:white_check_mark: 0:white_large_square:  
+[201911](book/2019/201911/record.md)    5:white_check_mark:    0:white_large_square:  
+[201912](book/2019/201912/record.md)    31:white_check_mark:   0:white_large_square:  
 
 
 ### 20200101  :white_check_mark:
@@ -21,3 +21,27 @@
 2. 海尼曼book03-book04
 3. 小考拉14
 4. 会说banana cat brown bear apple等单词，并明白意义
+
+### 20200102  :white_check_mark:
+1. peppa 0107-0108
+2. 小考拉13
+
+### 20200103  :white_check_mark:
+1. peppa 0109-0111
+2. 小考拉15
+
+### 20200104  :white_check_mark:
+1. peppa 0112-0114
+2. 小考拉16-17
+
+### 20200105  :white_check_mark:
+1. peppa 0115-0117
+2. 小考拉18-19
+
+### 20200106  :white_check_mark:
+1. peppa 0118-0120
+2. 小考拉20-21
+
+### 20200107  :white_check_mark:
+1. peppa 0121-0123
+2. 小考拉22
