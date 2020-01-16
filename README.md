@@ -51,4 +51,26 @@
 2. 小考拉23
 
 ### 20200109  :white_check_mark:
-无
+未记录
+
+### 20200110  :white_check_mark:
+未记录
+
+### 20200111  :white_check_mark:
+未记录
+
+### 20200112  :white_check_mark:
+未记录
+
+### 20200113  :white_check_mark:
+未记录
+
+### 20200114  :white_check_mark:
+未记录
+
+### 20200115  :white_check_mark:
+1. 学习海尼曼GK8 my family
+
+### 20200116  :white_check_mark:
+1. peppa pig 46 47 48
+
