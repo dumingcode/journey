@@ -74,3 +74,9 @@
 ### 20200116  :white_check_mark:
 1. peppa pig 46 47 48
 
+
+### 20200122  :white_check_mark:
+1. 开始看maisy maisy 0101-0108
+2. 看peppa pig部分集有点害怕
+3. 新学会cookie一次
+4. 能认识数字1、2、3
